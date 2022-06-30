@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
-
 use open20\amos\audit\models\AuditJavascriptSearch;
 
 use yii\data\ActiveDataProvider;

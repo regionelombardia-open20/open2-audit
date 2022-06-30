@@ -1,13 +1,4 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 /* @var $panel yii\debug\panels\LogPanel */
 
 use yii\bootstrap\Tabs;

@@ -1,13 +1,4 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 use yii\db\Schema;
 
 class m150625_000002_update_audit_data extends \yii\db\Migration

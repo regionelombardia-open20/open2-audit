@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
-
 class m150623_000003_add_audit_entry_ajax extends \yii\db\Migration
 {
     const TABLE = '{{%audit_entry}}';

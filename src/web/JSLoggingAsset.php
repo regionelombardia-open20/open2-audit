@@ -1,13 +1,4 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 /**
  * AssetBundle to register when you want to log javascript events as well.
  */

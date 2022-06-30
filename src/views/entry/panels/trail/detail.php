@@ -1,13 +1,4 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 /* @var $panel yii\debug\panels\LogPanel */
 /* @var $searchModel yii\debug\models\search\Log */
 /* @var $dataProvider yii\data\ArrayDataProvider */

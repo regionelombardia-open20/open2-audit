@@ -1,13 +1,4 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 /**
  * Provides a number of helper functions for the audit component
  */
@@ -211,7 +202,6 @@ class Helper extends \yii\base\BaseObject
 
     /**
      * Hash a long string to a short string.
-     * @link http://au1.php.net/crc32#111931
      *
      * @param $data
      * @return string

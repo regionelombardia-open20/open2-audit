@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
-
 use yii\db\Schema;
 
 class m150625_000004_fake_new_migrations extends \yii\db\Migration

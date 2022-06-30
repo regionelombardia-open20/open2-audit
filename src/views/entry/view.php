@@ -1,14 +1,5 @@
 <?php
 
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
-
 /** @var View $this */
 /** @var Panel[] $panels */
 /** @var Panel $activePanel */

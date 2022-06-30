@@ -1,13 +1,4 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 /**
  * Base model for the audit classes containing some helper functions to auto serialize/unserialize the
  * raw data attributes.

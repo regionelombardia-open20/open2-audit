@@ -1,13 +1,4 @@
-<?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */ 
+<?php 
     return [
         '<b>{message}</b><br />in <i>{file}</i> on line <i>{line}</i>.<br/>-- {link}' => '',
         'Action' => 'Acción',

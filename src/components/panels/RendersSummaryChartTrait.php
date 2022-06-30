@@ -1,15 +1,8 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 /**
  * Created by shalvah
+ * Date: 9/1/17
+ * Time: 12:10 PM
  */
 
 namespace open20\amos\audit\components\panels;

@@ -1,22 +1,11 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 /**
  * This IS A FORK of bedezign yii2 audit to customize it for open20 requests
  * 
  * This serves as both the Module for the MVC part of the audit and the configuration/entry point for the actual
  * audit process.
  *
- * @author    Steve Guns <steve@bedezign.com>
  * @package   com.bedezign.yii2.audit
- * @copyright 2014-2015 B&E DeZign
  */
 
 namespace open20\amos\audit;
@@ -53,9 +42,6 @@ use yii\helpers\ArrayHelper;
  * @package open20\amos\audit
  * @property AuditEntry $entry
  *
- * @method void data($type, $data)                                                                      @see ExtraDataPanel::trackData()
- * @method \open20\amos\audit\models\AuditError exception(\Exception $exception)                      @see ErrorPanel::log()
- * @method \open20\amos\audit\models\AuditError errorMessage($message, $code, $file, $line, $trace)   @see ErrorPanel::logMessage()
  */
 class Audit extends Module
 {
@@ -176,7 +162,6 @@ class Audit extends Module
     public $logTarget;
 
     /**
-     * @see \yii\debug\Module::$traceLine
      */
     public $traceLine = \yii\debug\Module::DEFAULT_IDE_TRACELINE;
 

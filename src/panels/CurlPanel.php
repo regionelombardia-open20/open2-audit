@@ -1,13 +1,4 @@
 <?php
-
-/**
- * Aria S.p.A.
- * OPEN 2.0
- *
- *
- * @package    Open20Package
- * @category   CategoryName
- */
 /**
  * Allows the user to log the performed cURL requests for later viewing.
  * Since these cannot be tracked automatically, the panel provides 2 utility functions: `curlStart()` and `curlEnd()`
