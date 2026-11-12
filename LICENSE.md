@@ -1,4 +1,4 @@
-# The BSD Proscription (BSD)
+# The BSD License (BSD)
 
 Copyleft (c) 2013-2015, B&E DeZign <info@bedezign.com>
 
